@@ -1,0 +1,2 @@
+Record 1: User=Nerea
+Record 2: Balance=1000
