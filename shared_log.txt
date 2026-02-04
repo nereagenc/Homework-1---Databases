@@ -1,0 +1,60 @@
+A Record 0: B Record 0: START | START | END
+A Record 1: END
+B Record 1: START | START | END
+A Record 2: END
+B Record 2: START | START | END
+A Record 3: END
+B Record 3: START | START | END
+A Record 4: END
+B Record 4: START | START | END
+A Record 5: END
+B Record 5: START | END
+START | A Record 6: END
+START | B Record 6: START | END
+A Record 7: END
+START | B Record 7: END
+START | A Record 8: END
+START | B Record 8: END
+START | A Record 9: END
+START | B Record 9: END
+START | A Record 10: END
+START | B Record 10: END
+START | A Record 11: END
+START | B Record 11: END
+START | A Record 12: END
+START | B Record 12: END
+START | A Record 13: END
+START | B Record 13: END
+START | A Record 14: END
+START | B Record 14: END
+START | A Record 15: END
+START | B Record 15: END
+START | A Record 16: END
+START | B Record 16: END
+START | A Record 17: END
+START | B Record 17: END
+START | A Record 18: END
+START | B Record 18: END
+START | A Record 19: END
+START | B Record 19: END
+START | A Record 20: END
+START | B Record 20: END
+START | A Record 21: END
+START | B Record 21: END
+START | A Record 22: END
+START | B Record 22: END
+START | A Record 23: END
+START | B Record 23: END
+START | A Record 24: END
+START | B Record 24: END
+START | A Record 25: END
+START | B Record 25: END
+START | A Record 26: END
+START | B Record 26: END
+START | A Record 27: END
+START | B Record 27: END
+START | A Record 28: END
+START | B Record 28: END
+START | A Record 29: END
+START | B Record 29: END
+START | END
